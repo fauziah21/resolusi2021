@@ -2,5 +2,5 @@ RESOLUSI
 - Konsisten belajar koding
 - Membuat blog dengan vanilla css, js, php
 - Beli PC
-- Belajar 1 framework javascript
 - Punya mentor koding
+- Belajar devops
