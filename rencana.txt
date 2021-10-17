@@ -1,3 +1,4 @@
 RENCANA LAINNYA
 - Belajar Tailwind css
 - Belajar NoSql 
+- Belajar ES 6
